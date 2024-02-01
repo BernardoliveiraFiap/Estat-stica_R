@@ -1,1 +1,1 @@
-# Aprendizado feito usando a linguagem R
+# Usando a linguagem R
